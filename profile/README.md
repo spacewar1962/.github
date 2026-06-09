@@ -1,4 +1,4 @@
-# Spacewar! (1962) — A Critical Code Studies Reading
+# Spacewar! (1962): A Critical Code Studies Reading
 
 A critical code reading of **_Spacewar!_**, the space-combat game written for the DEC PDP-1 at MIT in 1961–62. We read the original MIDAS assembly source as a cultural text, in the tradition of Critical Code Studies: at once literature, mechanism, spatial form, and a repository of the social formation that produced it. The source is small, roughly two thousand words of macro-assembly, yet it condenses much of the history that follows from it: real-time interaction, the hacker ethic, the demo, and the free circulation of code.
 
@@ -41,5 +41,5 @@ The bibliography page is generated from `book/ccs-bibliography.source.md` by `bo
 
 ## Project leads
 
-- **Professor David M. Berry** — University of Sussex — d.m.berry@sussex.ac.uk
-- **Professor Mark C. Marino** — University of Southern California — mcmarino@usc.edu
+- **Professor David M. Berry**, University of Sussex (d.m.berry@sussex.ac.uk)
+- **Professor Mark C. Marino**, University of Southern California (mcmarino@usc.edu)
